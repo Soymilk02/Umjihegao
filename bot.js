@@ -116,3 +116,6 @@ bot.on("message", function(message) {
 }); 
 
 bot.login(TOKEN);
+
+// THIS  MUST  BE  THIS  WAY
+client.login(process.env.BOT_TOKEN);
