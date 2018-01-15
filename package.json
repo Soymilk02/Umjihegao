@@ -1,0 +1,15 @@
+{
+  "name": "umjihegao",
+  "version": "1.0.0",
+  "description": "greatest trashtalking Umji bot of all time!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sica's Soy Milk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0"
+  }
+}
